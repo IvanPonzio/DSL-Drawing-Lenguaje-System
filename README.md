@@ -41,7 +41,7 @@ Feel free to get creative and create additional drawings!
 - Gloss graphics library (or another graphics library, if preferred)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your/repo.git`
+1. Clone the repository: `git clone https://github.com/IvanPonzio/DSL-Drawing-Lenguaje-System.git`
 2. Install Haskell and the required dependencies.
 3. Compile and run the project.
 
